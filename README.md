@@ -17,6 +17,6 @@ The tool currently supports accurate scanning for:
 - **YouTube** 
 
 ## 🚀 Installation & Usage
-1. Ensure you have **Python 3.x** installed.
+1. Ensure you have **Python 3** installed.
 2. Download `Sscan.py`.
 3. Install the requirements.txt
