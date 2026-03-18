@@ -19,6 +19,4 @@ The tool currently supports accurate scanning for:
 ## 🚀 Installation & Usage
 1. Ensure you have **Python 3.x** installed.
 2. Download `Sscan.py`.
-3. Install the required dependency:
-   ```bash
-   pip install requests
+3. Install the requirements.txt
