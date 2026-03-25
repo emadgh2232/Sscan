@@ -20,3 +20,7 @@ The tool currently supports accurate scanning for:
 1. Ensure you have **Python 3** installed.
 2. Download `Sscan.py`.
 3. Install the requirements.txt
+
+
+
+Disclaimer: This tool is developed for educational purposes, security research, and ethical penetration testing only. Usage of this tool for attacking targets without prior mutual consent is illegal. The developer assumes no liability and is not responsible for any misuse or damage caused by this program. Always stay ethical.
